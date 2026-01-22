@@ -5,7 +5,7 @@ Currently into environmental and climate topics, especially remote sensing data.
 Interested in data engineering, data mining, and high-performance computing.
 
 🔭 **Tinkering with:**  
-`.py`, `.js`, `.json`, `.geojson`, `.nc`, `.shp`, `.tiff`, `.jp2`, `.sql`, `.csv`, `.sh`, `.tex`, `.md`
+`.py`, `.js`, `.json`, `.geojson`, `.nc`, `.grib`, `.shp`, `.tif`, `.jp2`, `.sql`, `.csv`, `.sh`, `.tex`, `.md`
 
 ---
 
