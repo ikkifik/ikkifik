@@ -1,7 +1,5 @@
 ## こんにちは、フィクリです👋
 
----
-
 **CS MS @ Shizuoka University.**  
 Currently into environmental and climate topics, especially remote sensing data.  
 Interested in data engineering, data mining, and high-performance computing.
