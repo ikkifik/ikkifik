@@ -1,6 +1,6 @@
 ## こんにちは、フィクリです👋
 
-**CS MS @ Shizuoka University.**  
+[**CS MS @ Shizuoka University.**](https://www.inf.shizuoka.ac.jp/)  
 Currently into environmental and climate topics, especially remote sensing data.  
 Interested in data engineering, data mining, and high-performance computing.
 
@@ -12,7 +12,7 @@ Interested in data engineering, data mining, and high-performance computing.
 **Miscellaneous:**
 - 🎧 Lately, I've been enjoying listening to [Spotify](https://open.spotify.com/playlist/0C2fGRUw6gfDeotNMlTf45).
 - ✍️ Pouring ideas into [zuhdifikri.my.id](https://zuhdifikri.my.id/) in my free time.
-- 👀 Wildly curious about `Geography`, `Mathematics`, and `Psychology`.
+- 👀 Wildly curious about **Geography**, **Mathematics**, and **Psychology**.
 
 
 <!--
